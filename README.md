@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A self-taught programmer from Earth.</h3>
-<a href="https://github-stats-extended.vercel.app/api?username=bruzz-bruzz"><img src="https://github-stats-extended.vercel.app/api?username=anuraghazra"></a>
+<a href="https://github-stats-extended.vercel.app/api?username=bruzz-bruzz"><img src="https://github-stats-extended.vercel.app/api?username=bruzz-bruzz"></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruzz-bruzz" alt="bruzz-bruzz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
